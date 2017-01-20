@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>ethercat_soem</name>
-  <version>0.3.1</version>
+  <version>0.3.2</version>
   <description>
       ROS adaptation of Simple Open EtherCAT Master (SOEM) drivers.
       Original: http://soem.berlios.de/
